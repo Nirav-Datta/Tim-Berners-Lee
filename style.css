@@ -93,3 +93,12 @@ p {
 .links:hover {
     background-color:dodgerblue;
 }
+a{
+    text-decoration:none;
+}
+.article:hover{
+    color:coral;
+}
+html{
+    scroll-behavior:smooth;
+}
